@@ -43,7 +43,7 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 ## Authors
 
-* **Muhammad Bilal Hussain** - *Initial work*
+* **Muhammad Bilal Hussain** 
 
 See also the list of [contributors](https://github.com/rajatdiptabiswas/snake-pygame/graphs/contributors) who participated in this project.
 
